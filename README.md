@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **luuk600/luuk600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
